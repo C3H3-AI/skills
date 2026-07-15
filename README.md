@@ -55,6 +55,11 @@ Deploy HTML content to EdgeOne Pages, return the public URL. No login required, 
 
 ---
 
+## 📈 trendspyg ([trendspyg](./skills/trendspyg/SKILL.md)) ![Require](https://img.shields.io/badge/npx,uvx-+?label=bin)
+Free Google Trends data: real-time trending topics and keyword analysis over time (interest over time, related queries, interest by region).
+
+---
+
 ## ₿ Crypto Report ([crypto-report](./skills/crypto-report/SKILL.md)) ![Require](https://img.shields.io/badge/curl,jq-+?label=bin)
 Get cryptocurrency market data. Get Binance AI analysis report. Get blockchain news updates.
 
