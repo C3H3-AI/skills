@@ -20,6 +20,11 @@ A skill to build and manage Home Assistant configurations. Using [balloob/home-a
 
 ---
 
+## 🏮 Huawei SmartHome Scenes ([huawei-scene-setup](./skills/huawei-scene-setup/SKILL.md)) ![Require](https://img.shields.io/badge/python,requests-+?label=bin)
+Create and manage Huawei Smart Life (智慧生活) scenes and automations via the `huawei_smarthome_plus` HA integration — list/detail scenes, query devices and rooms, build ECA flows (triggers, conditions, actions), run, enable, rename, move and delete scenes. Includes a reverse-engineered ECA type reference with tested JSON templates.
+
+---
+
 ## 🗣️ Edge TTS ([edge-tts](./skills/edge-tts/SKILL.md)) ![Require](https://img.shields.io/badge/uvx-+?label=bin)
 Text-to-speech conversion using Microsoft Edge's TTS service via the `uvx edge-tts` command for generating audio.
 
